@@ -40,13 +40,16 @@ venv\Scripts\activate      # On Windows
 pip install -r requirements.txt
 4️⃣ Run an Agent
 Example: Running the PDF Query Agent
-python pdf_agent.py
+python pdf_agent.ipynb
+
 📂 Repository Structure
 ai-agents
-│── agents/
-│   ├── web_search_agent.py
-│   ├── pdf_query_agent.py
-│── requirements.txt
+│── web_search_agent
+   - web_serach_agent.ipynb
+   - requirement.txt
+│── pdf_query_agent
+   - pdf_query_agent.ipynb
+   - requirement.txt
 │── README.md
 
 🌟 Roadmap
