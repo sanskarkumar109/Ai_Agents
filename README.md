@@ -43,14 +43,18 @@ Example: Running the PDF Query Agent
 python pdf_agent.ipynb
 
 📂 Repository Structure
+
 ai-agents
-│── web_search_agent
+
+|-- web_search_agent
    - web_serach_agent.ipynb
    - requirement.txt
-│── pdf_query_agent
+     
+|-- pdf_query_agent
    - pdf_query_agent.ipynb
    - requirement.txt
-│── README.md
+     
+│-- README.md
 
 🌟 Roadmap
  Add YouTube Transcript Agent 🎥
